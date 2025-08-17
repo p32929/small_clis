@@ -26,6 +26,7 @@ The provided `killport.bat` script works on Windows.
    
    **Option 2: Copy to PATH folder**
    ```cmd
+   # Run as Administrator
    copy killport.bat "C:\Windows\System32\"
    ```
 
